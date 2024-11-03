@@ -7,7 +7,7 @@
 
 - 🌱 My forte is **MERN Stack, Machine Learning and Computer Vision**
 
-- 💬 Ask me about **react, machine-learning**
+- 👜 View my portfolio **[here](https://charm-pomelo-f50.notion.site/Hey-I-m-Ashwini-b4e8fa8c35f240faabd6e6d364fcb10b?pvs=25)**
 
 - 📫 How to reach me **aramanu01@gmail.com**
 
