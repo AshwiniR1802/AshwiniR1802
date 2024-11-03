@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwini Ramanuj</h1>
-<h3 align="center">A MERN Stack developer and machine learning enthusiast from India</h3>
+<h3 align="center">I am CS Graduate Student @ North Carolina State University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinir1802&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinir1802" /> </p>
 
