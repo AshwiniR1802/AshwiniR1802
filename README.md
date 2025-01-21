@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinir1802&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinir1802" /> </p>
 
-- 🔭 I’m worked at **Vibenote, Greenpepper, IMD, ISRO, IIT Gn**.
+- 🔭 I’ve worked at **Vibenote, Greenpepper, IMD, ISRO, IIT Gn**.
 
 - 🌱 My forte is **MERN Stack, Machine Learning and Computer Vision**
 
